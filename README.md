@@ -1,5 +1,6 @@
 # Weather-Application
-This is a Weather appication using open weather map api . https://openweathermap.org/
+This is a Weather appication using free open weather map api . https://openweathermap.org/
+Retriving data from JSON file.
 
 
 Starting Layout            | Search 
